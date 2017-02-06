@@ -1,6 +1,6 @@
 require './logger'
  
- Logger.instance.log_something 'perviy vizov'
+ Logger.instance.log_something 'perviy vizov!!!!!!'
   
 
  
